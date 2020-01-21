@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cart</string>
+    <string name="your_cart">Your shopping cart is empty</string>
+    <string name="btn">See trending items</string>
+    <string name="tag">Looking for ideas?</string>
+    <string name="no_items">No items saved for later</string>
+</resources>
